@@ -1,0 +1,2 @@
+/Users/billy/Downloads/flutter-miditech/android/app/.cxx/Debug/1t5q4f5l/x86/CMakeFiles/rebuild_cache.dir
+/Users/billy/Downloads/flutter-miditech/android/app/.cxx/Debug/1t5q4f5l/x86/CMakeFiles/edit_cache.dir
